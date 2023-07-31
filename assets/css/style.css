@@ -825,6 +825,10 @@ body.nav-active {
   margin-block-end: 20px;
 }
 
+.copyright img,
+.copyright span {
+  display: inline-block;
+}
 .copyright-link {
   display: inline-block;
   color: var(--text-majorelle-blue);
